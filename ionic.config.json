@@ -1,0 +1,7 @@
+{
+  "name": "ML",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
